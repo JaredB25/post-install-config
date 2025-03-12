@@ -67,7 +67,8 @@ We must remove the registration requirement so that anyone can create tickets.  
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/4c0728d6-8273-4381-83ca-ee851179a4e7s"/>
+<img src="https://github.com/user-attachments/assets/9a98a196-162d-4d99-8650-06a0d31e8700"/>
+  
   <img src="https://github.com/user-attachments/assets/90a0ff6b-adee-40c3-989f-7187ee122b7f"/>
   <img src="https://github.com/user-attachments/assets/805edc4a-c41d-4b69-94ed-08df7fddd963"/>
 </p>
@@ -110,4 +111,5 @@ We will then move on to SLAs.  Go to Admin Panel -> Manage -> SLA  to add new SL
 
 </p>
 <br />
-Finally we have succsefully configered osTicket Roles,Departments, Teams, Agents, Users and Help topics
+Ticket roles, departments, teams, agents, users, SLAs, and help topics have all been successfully configured at this point.  This should allow us to effectively use osTicket. 
+
